@@ -22,7 +22,7 @@ class SettingsViewController: UIViewController {
         setup(plusButton)
     }
 
-   //  MARK: -IB Actions
+   //  MARK: - IB Actions
     @IBAction func plusButtonTapped() {
         number += 1
         countLabel.text = "Значение счетчика:\n\(number)"
