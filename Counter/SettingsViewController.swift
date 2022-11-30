@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SettingsViewController.swift
 //  Counter
 //
 //  Created by Леонид Турко on 29.11.2022.
